@@ -1,0 +1,129 @@
+/*-----------Navbar-------------*/
+
+.bg-body-tertiary{
+    background-color: #fff !important;
+}
+.navbar-brand{
+    color: #cc1100;
+    font-weight: bold;
+}
+.nav-link{
+    padding-right: 5px;
+    padding-left: 5px;
+    font-size: 14px;
+}
+.nav-link:hover, .nav-link.active:hover{
+    background-color: #cc1100;
+    color: #fff;
+}
+
+
+
+.dropdown-item:hover{
+    color: #cc1100;
+}
+.dropdown-menu{
+    border: none;
+    box-shadow: 0px 0px 5px #8d8d8d;
+}
+ 
+
+.box1{
+    background-color: #941313;
+    box-shadow: 0px 0px 5px #8d8d8d;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.box2{
+    background-color: #2981c0;
+    box-shadow: 0px 0px 5px #8d8d8d;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.box3{
+    background-color: #f5af19;
+    box-shadow: 0px 0px 5px #8d8d8d;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.box4{
+    background-color: #f12711;
+    box-shadow: 0px 0px 5px #8d8d8d;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.box-cards i{
+    color: #fff;
+    text-align: center;
+}
+.box-cards a{
+    color: #fff;
+}
+
+.box-cards{
+    transition: transform .2s;
+}
+.box-cards:hover{
+    transform: scale(1.05);
+}
+
+
+.box-cards a:hover{
+    color: #fff;
+}
+
+
+.about-donation-section h4{
+    color: #cc1100;
+    font-weight: bold;
+}
+
+
+.line{
+    width: 200px;
+    height: 2px;
+    background-color: #cc1100;
+}
+.types-of-donation h4{
+    color: #cc1100;
+    font-weight: bold;
+}
+
+.paragraph p{
+    line-height: 2.0;
+}
+
+
+.footer{
+    background-color: #111111;
+}
+
+
+.links a{
+    text-decoration: none;
+}
+
+.links a:hover{
+    text-decoration: underline;
+}
+.page-header h4{
+    color: #cc1100 !important;
+}
+.page-header{
+    border-bottom: 1px solid #eee;
+}
+.panel{
+    background-color: #cc1100;
+    border-radius: 5px 5px 0 0;
+}
+.row-box{
+    border: 1px solid #ff766a
+}
+
+.search-button input{
+    background-color: #cc1100;
+}
+.btn{
+    color: #fff;
+}
